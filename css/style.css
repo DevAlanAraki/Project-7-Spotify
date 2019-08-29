@@ -72,6 +72,11 @@ nav.navbar-transparente {
 	color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 1%;
+}
+
+
 /* SECTION SERVICES */
 .box {
 	padding-top: 20px;
